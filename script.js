@@ -3,6 +3,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const message = document.getElementById("message");
 
     button.addEventListener("click", function () {
-        message.textContent = "🎉 Congratulations! You clicked the button.";
+        message.textContent = "🎉 مرحبا ب اسود الامة";
     });
 });
